@@ -6,8 +6,6 @@ O Urban Routes é um aplicativo que cria rotas e calcula o tempo e custo da viag
 
 <img src="C:\Users\champ\OneDrive\Documentos\App-Urban-Routes\imagens\APP Urban Routes.png"> 
 
-imagens\APP Urban Routes.png
-
 * Método usado para os testes: Casos de testes.
   * Plataforma: Google Chrome
 
