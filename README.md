@@ -5,8 +5,7 @@ Neste projeto, realizei testes de regressão para verificar se todos os elemento
 O Urban Routes é um aplicativo que cria rotas e calcula o tempo e custo da viagem para diferentes tipos de transporte.
 
 <img src="C:\Users\champ\OneDrive\Documentos\App-Urban-Routes\imagens\APP Urban Routes.png"> 
-
-  *Método usado para os testes: Casos de testes.
+  * Método usado para os testes: Casos de testes.
   * Plataforma: Google Chrome
 
 ##### Principais Tarefas:
